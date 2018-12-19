@@ -1,0 +1,18 @@
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  <img width="300" alt="Controller" src="https://www.inshanedesigns.com/wp-content/uploads/2018/03/PS4-controller-bluecamo.jpg">
+</div>
+<h2>Here are some links to help you start: </h2>
+<ul>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://github.com/yourchiness">My Git</a></h2>
+  </li>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://www.twitter.com/your_chi_ness">My  Twitter</a></h2>
+  </li>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/lawrence-warren-49a143b/">My LinkedIn</a></h2>
+  </li>
+</ul>
